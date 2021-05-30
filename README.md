@@ -29,8 +29,7 @@ Android GPSチームが主催するこのコンテストは、ION GNSS+ 2021 Con
 
 
 ### train.csv colomn infomaiton
-notebook: kagglenb
-example: https://www.xeno-canto.org/134874
+Dataページを参照（baseline_locations_[train/test].csv自体の特徴量の説明は無い。他ファイルの説明を参照）
 
 |name|Explanation|
 |----|----|
@@ -41,7 +40,7 @@ example: https://www.xeno-canto.org/134874
 |heightAboveWgs84EllipsoidM|参照GNSS受信機によって推定されたWGS楕円体上の高さ|
 |phone|collection名＋機種名（？）|
 
-Files
+Files（）
 
 [train]/[drive_id]/[phone_name]/ground_truth.csv - トレーニングセットでのみ提供。予想されるタイムスタンプでの参照場所
 
