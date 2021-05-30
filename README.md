@@ -34,6 +34,12 @@ example: https://www.xeno-canto.org/134874
 
 |name|Explanation|
 |----|----|
+|collectionName|各collectionのID,親の親フォルダ名を指している|
+|phoneName|機種名、親フォルダ名|
+|millisSinceGpsEpoch|GPSエポックからの整数ミリ秒|
+|latDeg,lngDeg|参照GNSS受信機によって推定されたWGS８４緯度、経度|
+|heightAboveWgs84EllipsoidM|参照GNSS受信機によって推定されたWGS楕円体上の高さ|
+|phone|collection名＋機種名（？）|
 
 Files
 
