@@ -59,6 +59,6 @@ baseline_locations_[train/test].csv - シンプルなアプローチで生成さ
   
   → 画像を上げてリンクを貼れば良いっぽいが何故か画像がアップロードできない
   - 打ち消し線は”~~"で囲えば引ける
-  - まずはDataについて整理（[このNotebook](https://www.kaggle.com/yasserhessein/eda-google-smartphone-decimeter)を参照）
+  - まずはDataについて整理（[このNotebook](https://www.kaggle.com/c/google-smartphone-decimeter-challenge/discussion/241039)を参照）
   - GitHub上にフォルダ作成する方法（https://qiita.com/tommy_aka_jps/items/b2ae85cbeab77e12a925）
 
