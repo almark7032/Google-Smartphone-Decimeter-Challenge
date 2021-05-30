@@ -40,7 +40,7 @@ Dataページを参照（baseline_locations_[train/test].csv自体の特徴量�
 |heightAboveWgs84EllipsoidM|参照GNSS受信機によって推定されたWGS楕円体上の高さ|
 |phone|collection名＋機種名（？）|
 
-Files（）
+Files（deepL）
 
 [train]/[drive_id]/[phone_name]/ground_truth.csv - トレーニングセットでのみ提供。予想されるタイムスタンプでの参照場所
 
