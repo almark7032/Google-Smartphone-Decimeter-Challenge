@@ -52,7 +52,7 @@ baseline_locations_[train/test].csv - シンプルなアプローチで生成さ
 
 # Log
 ### 20210527
-- 初submit
+- 初submit-nb001
 ### 20210530
 - Kaggle日記初作成
   - READMEファイルに画像を貼る方法が分からない…→メンターさんに質問
