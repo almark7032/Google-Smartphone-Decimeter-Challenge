@@ -29,7 +29,7 @@ Android GPSチームが主催するこのコンテストは、ION GNSS+ 2021 Con
 
 
 ### train.csv colomn infomation
-Dataページを参照（baseline_locations_[train/test].csv自体の特徴量の説明は無い。他ファイルの説明を参照）
+[Dataページ](https://www.kaggle.com/c/google-smartphone-decimeter-challenge/data)を参照（baseline_locations_[train/test].csv自体の特徴量の説明は無い。他ファイルの説明を参照）
 
 |name|Explanation|
 |----|----|
@@ -56,6 +56,7 @@ baseline_locations_[train/test].csv - シンプルなアプローチで生成さ
 ### 20210530
 - Kaggle日記初作成
   - ~~READMEファイルに画像を貼る方法が分からない…→メンターさんに質問~~
+  
   → 画像を上げてリンクを貼れば良いっぽいが何故か画像がアップロードできない
   - 打ち消し線は”~~"で囲えば引ける
   - まずはDataについて整理（[このNotebook](https://www.kaggle.com/yasserhessein/eda-google-smartphone-decimeter)を参照）
