@@ -28,7 +28,7 @@ Android GPSチームが主催するこのコンテストは、ION GNSS+ 2021 Con
 データ収集プロセスの詳細については、本稿をご参照ください。このデータセット／課題に基づいて作品を発表する場合は、コンペティションルールに基づいて適切に引用してください。
 
 
-### train.csv colomn infomation
+### train.csv column infomation
 [Dataページ](https://www.kaggle.com/c/google-smartphone-decimeter-challenge/data)を参照（baseline_locations_[train/test].csv自体の特徴量の説明は無い。他ファイルの説明を参照）
 
 |name|Explanation|
