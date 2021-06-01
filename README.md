@@ -69,7 +69,11 @@ baseline_locations_[train/test].csv - シンプルなアプローチで生成さ
 ### 20210602
 - データの内容をザッと説明するNotebook（A quick explanation of the data：https://www.kaggle.com/c/google-smartphone-decimeter-challenge/discussion/241039）
 を読んだ。付随するNotebookも読んだ、前にも一応読んでるけど。（①[Getting oriented if you're new to GPS](https://www.kaggle.com/c/google-smartphone-decimeter-challenge/discussion/238590),②[Methodology behind the baseline location estimates](https://www.kaggle.com/c/google-smartphone-decimeter-challenge/discussion/238583)）
--①は最初にどのデータを使えばいいのか教えてくれている、②はbaselineデータの取得方法（あんま分かってなくても良さそう）
+
+--①は最初にどのデータを使えばいいのか教えてくれている、②はbaselineデータの取得方法（あんま分かってなくても良さそう）
+
 -これ書いてるとEnterで勝手に文章がコピペされるの何なんだ…
+
 -とりあえず上位のNotebookをsubmitしたいけど、どれを使えばいいんだ？てかそもそも公開Notebook以外って見れるの？
+
 -メンターさんとの面談までに質問まとめておきたい
