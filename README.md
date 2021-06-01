@@ -76,4 +76,3 @@ baseline_locations_[train/test].csv - シンプルなアプローチで生成さ
 
 -とりあえず上位のNotebookをsubmitしたいけど、どれを使えばいいんだ？てかそもそも公開Notebook以外って見れるの？
 
--メンターさんとの面談までに質問まとめておきたい
