@@ -86,7 +86,9 @@ baseline_locations_[train/test].csv - シンプルなアプローチで生成さ
 - とりあえずこのノートブックを読んでみた（https://www.kaggle.com/c/google-smartphone-decimeter-challenge/discussion/244283）
 
   1.データセットを理解する
+  
   2.機械学習で既にいいスコアが出ているので、他の技術を検討すべし
+  
   3.外れ値を修正する
   4.データ平滑化を試す（カルマンフィルタなど）
   5.データの後処理を行う
