@@ -105,3 +105,6 @@ baseline_locations_[train/test].csv - シンプルなアプローチで生成さ
 ### 20210610
 - 昨日の質問メンターさんに質問してみるか
 - .describeの意味（https://www.google.com/search?q=.describe()&oq=.describe()&aqs=chrome..69i57.6801j0j1&sourceid=chrome&ie=UTF-8）
+
+### 20210611
+- indexの意味（https://deepage.net/features/pandas-index.html）
