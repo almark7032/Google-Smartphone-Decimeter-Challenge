@@ -108,3 +108,6 @@ baseline_locations_[train/test].csv - シンプルなアプローチで生成さ
 
 ### 20210611
 - indexの意味（https://deepage.net/features/pandas-index.html）
+
+###20210613
+- 
