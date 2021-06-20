@@ -111,3 +111,6 @@ baseline_locations_[train/test].csv - シンプルなアプローチで生成さ
 
 ### 20210613
 - カルマンフィルタについてちょっと勉強（https://www.youtube.com/watch?v=rnyuZzVtJBs）
+
+### 20210617
+- カルマンフィルタの勉強続き（https://www.youtube.com/watch?v=zVAq_3HClGs&t=1667s）
