@@ -114,3 +114,6 @@ baseline_locations_[train/test].csv - シンプルなアプローチで生成さ
 
 ### 20210617
 - カルマンフィルタの勉強続き（https://www.youtube.com/watch?v=zVAq_3HClGs&t=1667s）
+
+### 20210621
+- このノートブック（https://www.kaggle.com/dehokanta/baseline-post-processing-by-outlier-correction）　のカルマンフィルタのコードが意味不明だったので紙に行列式を書き出してみた。何か分かりそう！何で今までやらなかったんだ！
