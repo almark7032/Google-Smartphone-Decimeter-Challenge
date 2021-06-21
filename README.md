@@ -121,5 +121,5 @@ baseline_locations_[train/test].csv - シンプルなアプローチで生成さ
 ~~何か分かりそう！何で今までやらなかったんだ！~~
 
 
--各パラメータの値が意味不明なためメンターさんに質問。。カルマンフィルタのコードの引用元のノートブック（https://www.kaggle.com/emaerthin/demonstration-of-the-kalman-filter）
+-　各パラメータの値が意味不明なためメンターさんに質問。。カルマンフィルタのコードの引用元のノートブック（https://www.kaggle.com/emaerthin/demonstration-of-the-kalman-filter）
 で同じ疑問を持っている人を発見
