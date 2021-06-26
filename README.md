@@ -94,8 +94,10 @@ baseline_locations_[train/test].csv - シンプルなアプローチで生成さ
 5.データの後処理を行う
 6.ハイパーパラメーターチューニングを行う
 7.gnssや派生ファイルも使ってみる
+
 ### 20210607
 - ハーバーサイン距離（？）や半何とか関数のノートブック探して何とか見つけた
+
 ### 20210608
 - ハーバーサイン距離のわかりやすい説明を見つけた（https://paulownia.hatenablog.com/entry/2018/12/16/212203）
 
@@ -121,5 +123,9 @@ baseline_locations_[train/test].csv - シンプルなアプローチで生成さ
 ~~何か分かりそう！何で今までやらなかったんだ！~~
 
 
-各パラメータの値が意味不明なためメンターさんに質問。。カルマンフィルタのコードの引用元のノートブック（https://www.kaggle.com/emaerthin/demonstration-of-the-kalman-filter）
+- 各パラメータの値が意味不明なためメンターさんに質問。。カルマンフィルタのコードの引用元のノートブック（https://www.kaggle.com/emaerthin/demonstration-of-the-kalman-filter）
 で同じ疑問を持っている人を発見
+
+### 20210626
+- メンターさんから返答あった。とりあえずeの意味は分かった.
+- Docker勉強のためしばらく間が空いてしまった。
